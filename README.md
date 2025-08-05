@@ -93,5 +93,3 @@ This project performs a detailed analysis of global Spotify listening trends usi
 - **GitHub** for version control
 
 ---
-
-## 📁 Repository Structure
